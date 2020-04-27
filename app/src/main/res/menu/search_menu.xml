@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/grp1">
+    <item
+        android:id="@+id/search_menu_type"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_type"
+        android:title="Add">
+    </item>
+    <item
+        android:id="@+id/search_menu_marca"
+        android:icon="@drawable/ic_marca"
+        app:showAsAction="always"
+        android:title="Settings">
+    </item>
+    <item
+        android:id="@+id/search_menu_order"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_sort"
+        android:title="Settings">
+    </item>
+    </group>
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_logout"
+        android:title="Settings">
+    </item>
+</menu>

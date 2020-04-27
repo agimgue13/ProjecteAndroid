@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">i-Calatogo</string>
+    <string name="btn_login">Login</string>
+    <string name="et_email">Introduce tu email</string>
+    <string name="et_password">Introduce tu password</string>
+    <string name="tv_registrate">¿Aún no estás registrado?\nRegistrate</string>
+    <string name="et_password_repeat">Repite tu contrseña</string>
+    <string name="et_pro_percio">Introduce el precio</string>
+    <string name="et_pro_nombre">Introduce el nombre</string>
+    <string name="et_pro_descripcion">Introduce descripcion</string>
+    <string name="et_btn_producto">Insertar</string>
+    <string name="et_marca">Marca</string>
+    <string name="tipo_producto">Tipo producto</string>
+    <string name="eliminar_producto">Eliminar producto</string>
+    <string name="registro">Registro</string>
+    <string name="introduce_una_marca">Introduce una marca</string>
+
+
+    <string-array name="tipos_productos">
+
+        <item>Todos</item>
+        <item>Tablet</item>
+        <item>Móvil</item>
+        <item>Portatil</item>
+    </string-array>
+</resources>

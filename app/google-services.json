@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376216924409",
+    "firebase_url": "https://icatalogo-83524.firebaseio.com",
+    "project_id": "icatalogo-83524",
+    "storage_bucket": "icatalogo-83524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376216924409:android:d7efa8ad443dde7c067228",
+        "android_client_info": {
+          "package_name": "com.example.authme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376216924409-t9b1n6ue64co60ss25kpgjth0gq9kfbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRc-uNbzDojLmigL0rBHjk-0dMcfXfz28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376216924409-t9b1n6ue64co60ss25kpgjth0gq9kfbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
